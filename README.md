@@ -24,6 +24,57 @@ I develop scalable, high-performance web applications with a strong emphasis on 
 [![GitHub](https://img.shields.io/badge/GitHub-121013?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mh-hamza-28)
 
 ---
+# Featured Projects
+
+## 1. WorkSphere - Full-Stack Project Management 
+
+A production-ready full-stack project management application designed to streamline team collaboration, project organization, task tracking, and workflow management using modern MERN stack technologies.
+
+Live Link- https://workspheremanagement.netlify.app/
+Github Link- https://github.com/mh-hamza-28/WorkSphere
+
+- Developed a full-stack Project Management platform using the MERN stack (MongoDB, Express.js, React.js, Node.js) with scalable REST APIs, JWT authentication, and role-based access control for secure team collaboration.  
+- Engineered advanced task and workflow management features including Kanban boards, task assignment, subtasks, status tracking, project dashboards, and real-time collaborative project organization.  
+- Implemented secure authentication systems using JWT, bcrypt, Nodemailer, and protected middleware with features like email verification, password reset workflows, and user profile management.  
+- Built a responsive React frontend using Context API, React Router, Axios, and Lucide React with modular architecture, reusable components, optimized API integration, and production-ready development practices.
+  
+###  Tech Stack
+`MongoDB` `Express.js` `React.js` `Node.js` `JWT Authentication` `Context API` `Axios` `Mongoose` `Nodemailer` `Socket.io`
+
+---
+
+## 2.Eye Hospital Management Demo-Website
+
+ Developed a frontend inspired Eye Hospital frontend using React.js, Tailwind CSS, Framer Motion, Swiper.js, and Vite with a strong focus on scalable component architecture and responsive UI engineering.  
+
+ Live Link- https://chic-medovik-87bae2.netlify.app/
+ Github Link- https://github.com/mh-hamza-28/demo-eye-hospital
+ 
+- Implemented modern healthcare-focused UX/UI design, smooth animations, interactive sections, appointment booking workflows, reusable components, and mobile-first responsive layouts optimized for performance and accessibility.  
+- Built a production-quality frontend with clean code practices, modular structure, optimized rendering, and modern web development workflows suitable for real-world deployment.
+- - Integrated advanced frontend features including animated transitions, glassmorphism effects, dynamic content sections, smooth scrolling, and micro-interactions to enhance user engagement and overall user experience.
+    
+###  Tech Stack
+`React` `TailwindCSS` `Node.js` `Express.js` `MongoDB` `Framer Motion` `Swiper.js` `Lucide React`
+
+---
+
+## 3. BlockMetrics Lab
+
+A responsive cryptocurrency analytics dashboard built with Angular 17, designed to display real-time crypto market data with modern financial UI patterns and dynamic data visualization.
+
+Live Link- https://blockmetricslab.netlify.app/
+Github Link- https://github.com/mh-hamza-28/BlockMetrics-Lab
+
+- Developed a real-time crypto tracking dashboard using Angular 17, TypeScript, Angular Router, and HttpClient for live cryptocurrency market data integration via the CoinGecko API.  
+- Implemented responsive dark-themed financial UI with reusable Angular components, dynamic search filtering, nested routing, and real-time market updates optimized for user experience and scalability.  
+- Engineered modular frontend architecture using Angular services, TypeScript interfaces, component-driven design, and reactive data handling for clean state management and maintainable code structure.  
+- Built interactive dashboard features including live market refresh, dynamic price indicators, search functionality, conditional rendering, and responsive layouts using modern CSS, Flexbox, and CSS Grid systems.  
+
+###  Tech Stack
+`Angular 17` `TypeScript` `Angular Router` `HttpClient` `RxJS` `CoinGecko API` `CSS3` `Flexbox` `CSS Grid`
+
+---
 
 # Technologies
 
@@ -84,36 +135,7 @@ I develop scalable, high-performance web applications with a strong emphasis on 
 
 ---
 
-# Featured Projects
-
-## Eye Hospital Management Website
-
-Premium modern ophthalmology website with handcrafted UI, smooth animations, appointment systems, and luxury healthcare branding.
-
-### ⚡ Tech Stack
-`React` `TailwindCSS` `Node.js` `Express.js` `MongoDB`
-
----
-
-## 🧬 Protein Structure & Enzyme Prediction
-
-AI/ML biotechnology project focused on predicting protein structures and enzyme classification.
-
-### ⚡ Tech Stack
-`Python` `NumPy` `Pandas` `Machine Learning`
-
----
-
-## 🏢 WorkSphere
-
-A modern organization and workforce management platform focused on collaboration, productivity, and management systems.
-
-### ⚡ Tech Stack
-`MERN Stack` `JWT` `Socket.io` `Prisma`
-
----
-
-# 📊 GitHub Stats
+#  GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=mh-hamza-28&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
@@ -123,28 +145,8 @@ A modern organization and workforce management platform focused on collaboration
 
 ---
 
-# 🎯 Current Goals
-
-- 🚀 Build production-grade SaaS applications
-- 🧠 Master scalable backend architecture
-- ⚡ Learn advanced DevOps & cloud systems
-- 🤖 Explore AI integrations in web applications
-- 🌍 Contribute more to open source
-
----
-
-# 💭 Developer Quote
-
-> “Great software is built where clean engineering meets beautiful user experience.”
-
----
-
-# 👀 Profile Views
+#  Profile Views
 
 ![](https://komarev.com/ghpvc/?username=mh-hamza-28&style=for-the-badge)
 
 ---
-
-# ⭐ Fun Fact
-
-I enjoy transforming complex ideas into modern, polished, and production-ready digital experiences.
