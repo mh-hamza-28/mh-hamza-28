@@ -31,6 +31,7 @@ I develop scalable, high-performance web applications with a strong emphasis on 
 A production-ready full-stack project management application designed to streamline team collaboration, project organization, task tracking, and workflow management using modern MERN stack technologies.
 
 Live Link- https://workspheremanagement.netlify.app/
+
 Github Link- https://github.com/mh-hamza-28/WorkSphere
 
 - Developed a full-stack Project Management platform using the MERN stack (MongoDB, Express.js, React.js, Node.js) with scalable REST APIs, JWT authentication, and role-based access control for secure team collaboration.  
@@ -48,6 +49,7 @@ Github Link- https://github.com/mh-hamza-28/WorkSphere
  Developed a frontend inspired Eye Hospital frontend using React.js, Tailwind CSS, Framer Motion, Swiper.js, and Vite with a strong focus on scalable component architecture and responsive UI engineering.  
 
  Live Link- https://chic-medovik-87bae2.netlify.app/
+ 
  Github Link- https://github.com/mh-hamza-28/demo-eye-hospital
  
 - Implemented modern healthcare-focused UX/UI design, smooth animations, interactive sections, appointment booking workflows, reusable components, and mobile-first responsive layouts optimized for performance and accessibility.  
@@ -64,6 +66,7 @@ Github Link- https://github.com/mh-hamza-28/WorkSphere
 A responsive cryptocurrency analytics dashboard built with Angular 17, designed to display real-time crypto market data with modern financial UI patterns and dynamic data visualization.
 
 Live Link- https://blockmetricslab.netlify.app/
+
 Github Link- https://github.com/mh-hamza-28/BlockMetrics-Lab
 
 - Developed a real-time crypto tracking dashboard using Angular 17, TypeScript, Angular Router, and HttpClient for live cryptocurrency market data integration via the CoinGecko API.  
