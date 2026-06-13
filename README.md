@@ -44,7 +44,7 @@ Github Link- https://github.com/mh-hamza-28/WorkSphere
 
 ---
 
-## 2.Eye Hospital Management Demo-Website
+## 2.Eye Hospital Demo-Website
 
  Developed a frontend inspired Eye Hospital frontend using React.js, Tailwind CSS, Framer Motion, Swiper.js, and Vite with a strong focus on scalable component architecture and responsive UI engineering.  
 
