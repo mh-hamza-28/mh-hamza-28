@@ -54,7 +54,7 @@ Github Link- https://github.com/mh-hamza-28/WorkSphere
  
 - Implemented modern healthcare-focused UX/UI design, smooth animations, interactive sections, appointment booking workflows, reusable components, and mobile-first responsive layouts optimized for performance and accessibility.  
 - Built a production-quality frontend with clean code practices, modular structure, optimized rendering, and modern web development workflows suitable for real-world deployment.
-- - Integrated advanced frontend features including animated transitions, glassmorphism effects, dynamic content sections, smooth scrolling, and micro-interactions to enhance user engagement and overall user experience.
+-  Integrated advanced frontend features including animated transitions, glassmorphism effects, dynamic content sections, smooth scrolling, and micro-interactions to enhance user engagement and overall user experience.
     
 ###  Tech Stack
 `React` `TailwindCSS` `Node.js` `Express.js` `MongoDB` `Framer Motion` `Swiper.js` `Lucide React`
